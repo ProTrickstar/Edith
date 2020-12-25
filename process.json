@@ -1,0 +1,22 @@
+{
+	"open instagram": "openWeb('https://instagram.com'); Speak('Opening Instagram Sir...')",
+	"open whatsapp": "openWeb('https://web.whatsapp.com'); Speak('Opening Whatsapp Sir...')",
+	"open gmail": "openWeb('https://mail.google.com'); Speak('Opening Gmail Sir')",
+	"open youtube": "openWeb('https://youtube.com'); Speak('Opening YouTube Sir')",
+	"open mail": "openWeb('https://mail.google.com'); Speak('Opening Gmail Sir')",
+	"timer": "setTimer(UserText);",
+	"time": "getCurrentTime();",
+	"weather": "getWeatherDetails();",
+	"open google": "openWeb('https:/www.google.com'); Speak('Opening Google Sir')",
+	"open facebook": "openWeb('https:/www.facebook.com'); Speak('Opening Facebook Sir')",
+	"open code": "openWeb('https://code.whitehatjr.com/s/dashboard'); Speak('Opening Whitehat Sir')",
+	"open p": "openWeb('https://editor.p5js.org/#'); Speak('Opening p5 Sir')",
+	"good morning": "goodMorning();",
+	"good evening": "goodEvening();",
+	"goodbye": "goodBye();",
+	"good night": "goodNight();",
+	"good job": "goodJob();",
+	"hello": "status();",
+	"good afternoon": "goodAfternoon();"
+}
+
